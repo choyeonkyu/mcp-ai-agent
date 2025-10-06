@@ -13,6 +13,13 @@ Yeon-kyu-MCP-Agent 기반의 개인 맞춤형 AI 비서입니다. 날씨, 뉴스
 -   **`today_schedule`**: 구글 캘린더에서 오늘 등록된 일정을 가져옵니다.
 -   **`daily_quote`**: 영감을 주는 명언을 생성합니다.
 -   **`scrape_page_text`**: 지정된 URL의 웹페이지에서 텍스트 콘텐츠를 추출합니다.
+---
+## 시연 예시
+
+
+https://github.com/user-attachments/assets/96b29a99-d700-4853-bb94-dc7dce89ea89
+
+
 
 ---
 
@@ -64,11 +71,6 @@ pip install mcp fastmcp fastapi geopy feedparser beautifulsoup4 httpx langchain_
     ```bash
     python chat_agent.py
     ```
----
-## 시연 예시
-
-
-
 ---
 
 ## 기술 포인트
