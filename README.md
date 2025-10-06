@@ -17,6 +17,10 @@ Yeon-kyu-MCP-Agent 기반의 개인 맞춤형 AI 비서입니다. 날씨, 뉴스
 ## 시연 예시
 
 
+https://github.com/user-attachments/assets/ae2a70cc-b46f-4fa5-86b2-c62ac5e1b813
+
+
+
 ---
 
 ## ⚙️ 설치 및 설정
