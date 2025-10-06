@@ -1,0 +1,6 @@
+.env
+mcp-ai-agent/
+__pycache__/
+*.pyc
+credential.json
+token.json
